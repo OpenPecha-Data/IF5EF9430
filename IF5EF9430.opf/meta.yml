@@ -1,0 +1,38 @@
+id: IF5EF9430
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T08:38:32.122777'
+last_modified: '2022-06-19T08:38:32.122788'
+parser: null
+source_metadata:
+  title: Hagiography of the 54th Ngor abbot Byams pa kun dga bstan pai rgyal mtshan
+    (1829–1870); Lamdre Lobshe, vol. ja, title no. 4
+  author: jam dbyangs blo gter dbang po/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-09-05); unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), kun dga' rdo rje/ (Kathmandu) (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/581
+  bases:
+    cc97:
+      title: Hagiography of the 54th Ngor abbot Byams pa kun dga bstan pai rgyal mtshan
+        (1829–1870); Lamdre Lobshe, vol. ja, title no. 4
+      order: 1
+      base_file: cc97.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
